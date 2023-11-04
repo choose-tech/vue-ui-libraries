@@ -1,0 +1,29 @@
+{
+  "logo": "../../assets/content/libraries/nuxt-ui.svg",
+  "name": "Nuxt UI",
+  "url": "https://ui.nuxt.com",
+  "repo": {
+    "owner": "nuxtlabs",
+    "name": "ui"
+  },
+  "packages": ["@nuxt/ui"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "imported",
+    "tailwind-css",
+    "components",
+    "free",
+    "fully-accessible",
+    "semantic-colors",
+    "dark-mode",
+    "official",
+    "public-roadmap",
+    "rtl-support",
+    "fully-typed",
+    "nuxt-only",
+    "form-helpers",
+    "figma-files"
+  ]
+}

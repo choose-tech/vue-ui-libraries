@@ -1,0 +1,24 @@
+{
+  "logo": "../../assets/content/libraries/quasar.svg",
+  "name": "Quasar",
+  "url": "https://quasar.dev",
+  "repo": {
+    "owner": "quasarframework",
+    "name": "quasar"
+  },
+  "packages": ["quasar"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "vue-nuxt",
+    "rtl-support",
+    "theme-generator",
+    "dark-mode",
+    "styled",
+    "imported",
+    "components",
+    "free",
+    "public-roadmap",
+    "semantic-colors"
+  ]
+}

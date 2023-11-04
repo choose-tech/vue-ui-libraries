@@ -1,0 +1,30 @@
+{
+  "logo": "../../assets/content/libraries/primevue.svg",
+  "name": "PrimeVue",
+  "url": "https://primevue.org",
+  "repo": {
+    "owner": "primefaces",
+    "name": "primevue"
+  },
+  "packages": ["primevue"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "unstyled",
+    "imported",
+    "tailwind-css",
+    "components",
+    "fully-accessible",
+    "figma-files",
+    "free",
+    "public-roadmap",
+    "theme-generator",
+    "builtin-themes",
+    "semantic-colors",
+    "vue-nuxt",
+    "fully-typed",
+    "form-helpers",
+    "dark-mode"
+  ]
+}
