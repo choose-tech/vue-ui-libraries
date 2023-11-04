@@ -1,0 +1,7 @@
+node_modules
+.astro
+dist
+env.d.ts
+content/github
+content/npm
+.netlify

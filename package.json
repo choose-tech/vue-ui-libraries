@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "packageManager": "pnpm@8.9.2",
+  "engines": {
+    "node": ">=18.14.1"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@astrojs/netlify": "^3.0.4",
+    "@choose-tech/astro": "^0.0.17",
+    "astro": "^3.4.3",
+    "sharp": "^0.32.6"
+  }
+}
