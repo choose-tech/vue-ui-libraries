@@ -9,5 +9,5 @@
   "packages": ["astro"],
   "equivalents": [],
   "implies": [],
-  "categories": ["meta-framework"]
+  "categories": ["styled"]
 }
