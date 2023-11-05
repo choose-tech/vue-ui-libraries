@@ -1,0 +1,20 @@
+{
+  "logo": "../../assets/content/libraries/flowbite-vue.svg",
+  "name": "Flowbite Vue",
+  "url": "https://flowbite-vue.com",
+  "repo": {
+    "owner": "themesberg",
+    "name": "flowbite-vue"
+  },
+  "packages": ["flowbite-vue"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "components",
+    "tailwind-css",
+    "free",
+    "figma-files",
+    "vue-nuxt"
+  ]
+}

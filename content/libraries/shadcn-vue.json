@@ -1,0 +1,24 @@
+{
+  "logo": "../../assets/content/libraries/shadcn-vue.png",
+  "name": "Shadcn-vue",
+  "url": "https://www.shadcn-vue.com",
+  "repo": {
+    "owner": "radix-vue",
+    "name": "shadcn-vue"
+  },
+  "packages": ["shadcn-vue"],
+  "equivalents": [],
+  "implies": ["radix-vue"],
+  "categories": [
+    "styled",
+    "pasted",
+    "tailwind-css",
+    "components",
+    "vue-nuxt",
+    "theme-generator",
+    "dark-mode",
+    "figma-files",
+    "free",
+    "fully-accessible"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "logo": "../../assets/content/libraries/ant-design-vue.svg",
+  "name": "Ant Design Vue",
+  "url": "https://antdv.com",
+  "repo": {
+    "owner": "vueComponent",
+    "name": "ant-design-vue"
+  },
+  "packages": ["ant-design-vue"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "imported",
+    "components",
+    "vue-nuxt",
+    "free",
+    "figma-files",
+    "semantic-colors",
+    "form-helpers"
+  ]
+}

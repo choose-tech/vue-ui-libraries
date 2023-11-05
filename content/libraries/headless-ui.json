@@ -1,0 +1,22 @@
+{
+  "logo": "../../assets/content/libraries/headless-ui.svg",
+  "name": "Headless UI",
+  "url": "https://headlessui.com",
+  "repo": {
+    "owner": "tailwindlabs",
+    "name": "headlessui"
+  },
+  "packages": ["@headlessui/vue"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "unstyled",
+    "components",
+    "imported",
+    "tailwind-css",
+    "fully-accessible",
+    "free",
+    "official",
+    "vue-nuxt"
+  ]
+}

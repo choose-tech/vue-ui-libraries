@@ -1,0 +1,25 @@
+{
+  "logo": "../../assets/content/libraries/vuestic-ui.png",
+  "name": "Vuestic UI",
+  "url": "https://ui.vuestic.dev",
+  "repo": {
+    "owner": "epicmaxco",
+    "name": "vuestic-ui"
+  },
+  "packages": ["vuestic-ui"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "fully-accessible",
+    "components",
+    "styled",
+    "free",
+    "semantic-colors",
+    "imported",
+    "public-roadmap",
+    "dark-mode",
+    "vue-nuxt",
+    "form-helpers",
+    "fully-typed"
+  ]
+}

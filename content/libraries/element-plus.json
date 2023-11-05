@@ -1,0 +1,25 @@
+{
+  "logo": "../../assets/content/libraries/element-plus.svg",
+  "name": "Element Plus",
+  "url": "https://element-plus.org",
+  "repo": {
+    "owner": "element-plus",
+    "name": "element-plus"
+  },
+  "packages": ["element-plus"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "vue-nuxt",
+    "fully-typed",
+    "dark-mode",
+    "public-roadmap",
+    "imported",
+    "components",
+    "free",
+    "figma-files",
+    "semantic-colors",
+    "form-helpers"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "logo": "../../assets/content/libraries/naive-ui.svg",
+  "name": "Naive UI",
+  "url": "https://www.naiveui.com",
+  "repo": {
+    "owner": "tusen-ai",
+    "name": "naive-ui"
+  },
+  "packages": ["naive-ui"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "vue-nuxt",
+    "fully-typed",
+    "theme-generator",
+    "imported",
+    "styled",
+    "components",
+    "free",
+    "semantic-colors",
+    "form-helpers"
+  ]
+}

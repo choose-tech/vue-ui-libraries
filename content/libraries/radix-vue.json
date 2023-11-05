@@ -1,0 +1,22 @@
+{
+  "logo": "../../assets/content/libraries/radix-vue.svg",
+  "name": "Radix Vue",
+  "url": "https://www.radix-vue.com/",
+  "repo": {
+    "owner": "radix-vue",
+    "name": "radix-vue"
+  },
+  "packages": ["radix-vue"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "vue-nuxt",
+    "unstyled",
+    "imported",
+    "components",
+    "free",
+    "fully-accessible",
+    "fully-typed",
+    "public-roadmap"
+  ]
+}

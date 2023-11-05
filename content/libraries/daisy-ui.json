@@ -1,0 +1,24 @@
+{
+  "logo": "../../assets/content/libraries/daisy-ui.svg",
+  "name": "Daisy UI",
+  "url": "https://daisyui.com",
+  "repo": {
+    "owner": "saadeghi",
+    "name": "daisyui"
+  },
+  "packages": ["daisyui"],
+  "equivalents": [],
+  "implies": [],
+  "categories": [
+    "styled",
+    "imported",
+    "css-only",
+    "tailwind-css",
+    "free",
+    "builtin-themes",
+    "theme-generator",
+    "semantic-colors",
+    "dark-mode",
+    "rtl-support"
+  ]
+}

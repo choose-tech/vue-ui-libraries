@@ -1,0 +1,20 @@
+{
+  "logo": "../../assets/content/libraries/tailwind-ui.svg",
+  "name": "Tailwind UI",
+  "url": "https://tailwindui.com",
+  "repo": {
+    "owner": "tailwindlabs",
+    "name": "headlessui"
+  },
+  "packages": [],
+  "equivalents": [],
+  "implies": ["headless-ui"],
+  "categories": [
+    "styled",
+    "pasted",
+    "components",
+    "tailwind-css",
+    "fully-accessible",
+    "official"
+  ]
+}
