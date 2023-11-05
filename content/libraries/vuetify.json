@@ -7,8 +7,6 @@
     "name": "vuetify"
   },
   "packages": ["vuetify"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "imported",

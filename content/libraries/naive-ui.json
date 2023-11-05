@@ -7,8 +7,6 @@
     "name": "naive-ui"
   },
   "packages": ["naive-ui"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "vue-nuxt",
     "fully-typed",

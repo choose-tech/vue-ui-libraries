@@ -7,8 +7,6 @@
     "name": "ui"
   },
   "packages": ["@nuxt/ui"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "imported",

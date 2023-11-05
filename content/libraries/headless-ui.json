@@ -7,8 +7,6 @@
     "name": "headlessui"
   },
   "packages": ["@headlessui/vue"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "unstyled",
     "components",

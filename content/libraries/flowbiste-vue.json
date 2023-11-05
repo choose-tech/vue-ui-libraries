@@ -7,8 +7,6 @@
     "name": "flowbite-vue"
   },
   "packages": ["flowbite-vue"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "components",

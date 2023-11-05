@@ -7,8 +7,6 @@
     "name": "element-plus"
   },
   "packages": ["element-plus"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "vue-nuxt",

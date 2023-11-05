@@ -7,8 +7,6 @@
     "name": "vuestic-ui"
   },
   "packages": ["vuestic-ui"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "fully-accessible",
     "components",

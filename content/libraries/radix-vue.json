@@ -7,8 +7,6 @@
     "name": "radix-vue"
   },
   "packages": ["radix-vue"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "vue-nuxt",
     "unstyled",

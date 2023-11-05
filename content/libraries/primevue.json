@@ -7,8 +7,6 @@
     "name": "primevue"
   },
   "packages": ["primevue"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "unstyled",

@@ -7,8 +7,6 @@
     "name": "quasar"
   },
   "packages": ["quasar"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "vue-nuxt",
     "rtl-support",

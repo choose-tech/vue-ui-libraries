@@ -7,8 +7,6 @@
     "name": "daisyui"
   },
   "packages": ["daisyui"],
-  "equivalents": [],
-  "implies": [],
   "categories": [
     "styled",
     "imported",
