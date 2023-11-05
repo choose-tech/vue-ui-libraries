@@ -9,8 +9,8 @@ dependencies:
     specifier: ^3.0.4
     version: 3.0.4(astro@3.4.3)
   '@choose-tech/astro':
-    specifier: ^0.0.20
-    version: 0.0.20(astro@3.4.3)
+    specifier: ^0.0.21
+    version: 0.0.21(astro@3.4.3)
   astro:
     specifier: ^3.4.3
     version: 3.4.3
@@ -344,8 +344,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: false
 
-  /@choose-tech/astro@0.0.20(astro@3.4.3):
-    resolution: {integrity: sha512-8LzkX8FxbcAmEVjINEqhUXoTgyTHf/2hQZdNwLgXcTlrmUjByLJRIoEiF/688eTlRpKZ0+PsgskeEppWvOfLew==}
+  /@choose-tech/astro@0.0.21(astro@3.4.3):
+    resolution: {integrity: sha512-KotTHGA7yNdAIFJJJM7M9ajjkSMEpX0d4Zy6Yk2RsBMzypgGuY446lGQBzVOKTnP0v/eso3/G5j6D0A/dp/gyg==}
     peerDependencies:
       astro: ^3.4.3
     dependencies:
